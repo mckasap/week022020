@@ -3,4 +3,6 @@
 
     <string name="app_name">week022020</string>
     <string name="Hw">Bonjour le monde! </string>
+    <string name="secondText">Acitivty the second</string>
+    <string name="btnGit">Le Go To Second</string>
 </resources>
